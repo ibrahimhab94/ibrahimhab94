@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ibrahimhab94
+- 👋 Hi, It’s @ibrahimhab94
 - 👀 I’m interested in new techniques
-- 🌱 I’m currently works as product manager at HMEDIA LLC.
-- 📫 How to reach me: hbl@outlook.com 
+- 🌱 The CEO of projecx.
+- 📫 How to reach me: ibrahim@projecx.io 
 
 <!---
 ibrahimhab94/ibrahimhab94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
